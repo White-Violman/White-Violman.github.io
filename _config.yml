@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "White-Violman"
+  name             : "Violman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "White-Violman 블로그 "
   location         : "Somewhere"
   email            :
   links:
